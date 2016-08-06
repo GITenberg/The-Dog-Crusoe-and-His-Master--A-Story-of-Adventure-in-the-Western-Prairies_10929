@@ -1,0 +1,29 @@
+_repo: The-Dog-Crusoe-and-His-Master--A-Story-of-Adventure-in-the-Western-Prairies_10929
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ballantyne, R. M. (Robert Michael)
+    alias: Ballantyne, Robert Michael
+    birthdate: 1825
+    deathdate: 1894
+    gutenberg_agent_id: '333'
+    url: http://www.gutenberg.org/2009/agents/333
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Michael_Ballantyne
+description: ''
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10929'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Dogs -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Adventure stories'
+- GITenberg
+title: 'The Dog Crusoe and His Master: A Story of Adventure in the Western Prairies'
+url: http://www.gutenberg.org/ebooks/10929
